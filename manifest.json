@@ -1,0 +1,11 @@
+{
+    "name": "Geoguessr US Plus",
+    "version": "1.0.0",
+    "description": "A fun US state-guessing minigame",
+    "manifest_version": 3,
+    "author": "Miles Grant",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Game Score"
+    }
+}
